@@ -104,6 +104,15 @@ $(document).ready(function(){
   });
   /*SERVICES*/
 
+  /*FAQ*/
+  $('.mdl-accordion__content').each(function(){
+    var content = $(this);
+    content.css('margin-top', -content.height());
+  });
+  $(document.body).on('click', '.mdl-accordion__button', function(){
+    $(this).parent('.mdl-accordion').toggleClass('mdl-accordion--opened');
+  });
+  /*FAQ*/
 
   /*CONTACT FORM*/
   $("#contact-form").submit(function(e) {
@@ -126,6 +135,7 @@ $(document).ready(function(){
     });
   });
   /*CONTACT FORM*/
+
 });
 
 
