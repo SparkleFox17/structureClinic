@@ -323,6 +323,26 @@ dialog{
 /*TESTIMONIALS*/
 
 /*FAQ*/
+#faq{
+    background-color: #5CE1E6;
+    height:auto;
+    min-height:auto;
+    padding-bottom:20px;
+}
+#faq .container{
+    padding: 30px 0;
+    background-color: #5CE1E6;
+    height: auto;
+    min-height: inherit;
+}
+.mdl-layout__container{
+    position: relative;
+    height:auto;
+}
+.mdl-accordion{
+    margin-bottom: 5px;
+    background: #fafafa!important;
+}
 .mdl-accordion.mdl-accordion--opened{
   border-top: 1px solid #e0e0e0;
   border-bottom: 1px solid #e0e0e0;
@@ -334,6 +354,9 @@ dialog{
 }
 .mdl-accordion .mdl-accordion__content-wrapper{
   overflow: hidden;
+}
+.mdl-accordion__content{
+    margin: 10px 40px;
 }
 .mdl-accordion .mdl-accordion__content{
   transition-property: margin-top;
@@ -355,6 +378,17 @@ dialog{
 }
 .mdl-accordion.mdl-accordion--opened .mdl-accordion__content{
   margin-top: 0 !important;
+}
+.mdl-layout__drawer{
+    width: 100%;
+    height: auto;
+    border-right:0px solid transparent;
+    background:transparent;
+    box-shadow:none;
+    position: relative;
+}
+.mdl-layout__drawer .mdl-navigation {
+    padding-top:0px;
 }
 /*FAQ*/
 
