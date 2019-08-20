@@ -60,7 +60,7 @@
             <br/>
             <p>
                 please indicate if you have a preferred appointment date or
-                time and we will do our best to accommodate you
+                time and we will do our best to accommodate you.
             </p>
             <br/>
             <p><span id="contact-msg"></span></p>

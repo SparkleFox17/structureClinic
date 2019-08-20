@@ -6,12 +6,15 @@ var dialog4 = document.getElementById('dialog4');
 
 $(document).ready(function(){
 
-  
 
   //smooth scrolling
   $(document).on('click','nav a, .slide-text a, .serviceBook', function(event) {
+    if($('nav').hasClass('open')){
+      $('nav').removeClass('open');
+    }else{
+      $('nav').addClass('open');
+    }
     $('dialog').removeAttr('open');
-    console.log('Hi');
     // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {
       // Prevent default anchor click behavior
@@ -150,7 +153,14 @@ $(document).ready(function(){
 
 });
 
-
+function myFunction(x) {
+  x.classList.toggle("change");
+  if($('nav').hasClass('open')){
+    $('nav').removeClass('open');
+  }else{
+    $('nav').addClass('open');
+  }
+}
 
 
 
