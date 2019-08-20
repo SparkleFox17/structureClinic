@@ -15,15 +15,25 @@
 }  
 
 
+@font-face {
+    font-family: 'industryw00-lightregular';
+    src: url('../fonts/industry_w00_light-webfont.woff2') format('woff2'),
+         url('../fonts/industry_w00_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 /*generic*/
 h1, h2{margin: 0;font-size:36px;}
-p{line-height: 40px;font-size: 16px;letter-spacing: 1px;}
+p{line-height: 30px;font-size: 16px;letter-spacing: 1px;}
 a{text-decoration:none;}
-body {background-color: #5CE1E6;}
+body {background-color: #1d8576;}
 button{
     border: 5px solid #000!important;
     padding-bottom: 35px!important;
-    letter-spacing: 10px!important;
+    letter-spacing: 7px!important;
     text-align: center!important;
     padding-right: 6px!important;
 }
@@ -31,7 +41,7 @@ button{
     margin-left:-40px;
     text-transform:capitalize;
     letter-spacing: 8px;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'industryw00-lightregular';
 }
 /*generic*/
 
@@ -41,13 +51,14 @@ header {
     z-index: 1000;
     width: 100%;
     height: 70px;  
-    background-color: #5CE1E6;
+    background-color: #1d8576;
 }
 nav {
     position: relative;
     height: 40px;
     width: 100px;
     color: #4967E6;
+    margin-top: 5px;
 }
 nav ul {
     display: flex;
@@ -84,7 +95,6 @@ section:nth-child(even) {
     -moz-box-shadow: 0px 0px 10px #000000;
     -webkit-box-shadow: 0px 0px 10px #000000;
     box-shadow: 0px 0px 10px #000000;
-    background-color: #5CE1E6;
     z-index: 1;
 }
 .container {
@@ -128,7 +138,13 @@ section:nth-child(even) {
     background:linear-gradient(to left, rgba(101, 203, 212, 0) 0%, rgba(101, 203, 212, 0.8) 70%), url('../imgs/slide3.jpg') 50% 50% / cover no-repeat;
 }
 .slide-text{
-
+    text-align: center;
+}
+.slide-text .mdl-button {
+    color:#000;
+    border: 5px solid #fff!important;
+    width: 500px;
+    margin-top: 20px;
 }
 #home .container-big {
     text-align: center;
@@ -177,6 +193,11 @@ section:nth-child(even) {
 #about {
     height: auto;
     background: #fff;
+    background-color: #1d8576;
+    color: #fff;
+}
+#about .container {
+    background-color: transparent;
 }
 #toronto {
     height:250px;
@@ -188,6 +209,10 @@ section:nth-child(even) {
 /*ABOUT*/
 
 /*SERVICES*/
+#services {
+    background-color: #1d8576;
+    color: #fff;
+}
 #services .skin {
     width:100%;
     height:100%;
@@ -212,7 +237,7 @@ section:nth-child(even) {
     display:flex;
     justify-content:center;
     flex-direction:column;
-    height: calc(100% - 35px);
+    height: calc(100% - 70px);
 }
 .row {
     width: auto;
@@ -259,6 +284,10 @@ section:nth-child(even) {
 .column:hover > p{
     color:#000;
 }
+.close {
+    width: 200px;
+    flex: inherit;
+}
 .row .column:nth-child(1){
     margin-right:10px;
 }
@@ -274,7 +303,17 @@ dialog{
 .mdl-dialog__actions {
     position: absolute!important;
     bottom: 5px!important;
-    left: calc(50% - 65px)!important;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.mdl-dialog__actions button{
+    height: 44px;
+}
+.mdl-dialog__actions a {
+    flex: inherit;
+    margin-left: 20px;
 }
 /*SERVICES*/
    
@@ -324,16 +363,19 @@ dialog{
 
 /*FAQ*/
 #faq{
-    background-color: #5CE1E6;
+    background-color: #888888;
     height:auto;
     min-height:auto;
     padding-bottom:20px;
 }
 #faq .container{
     padding: 30px 0;
-    background-color: #5CE1E6;
+    background-color: #888888;
     height: auto;
     min-height: inherit;
+}
+.half-container{
+    width:50%;
 }
 .mdl-layout__container{
     position: relative;
@@ -395,17 +437,18 @@ dialog{
 /*CONTACT*/
 #contact {
     background-color: white;
-    max-height: 830px;
+    /*max-height: 830px;*/
     overflow:hidden;
+    height:auto;
 }
 #contact .container {
-    height: calc(100% - 60px);
+    height: auto;
     background-color: white;
 }
 #contact-img {
     position: absolute;
     display: inline-block;
-    top: 0px;
+    top: 90px;
     right: 0px;
     width: 50%;
 }
@@ -441,7 +484,7 @@ footer {
     display:flex;
     flex-direction:row;
     justify-content: space-evenly;
-    width: 500px;
+    width: 1000px;
     margin: 0 auto;
     letter-spacing: 2px;
 }
@@ -486,7 +529,7 @@ footer a{
 }
 .swiper-pagination-bullet-active {
     opacity: 1;
-    background: #5CE1E6;
+    background: #1d8576;
 }
 
 .swiper-button-next{

@@ -35,7 +35,7 @@ $(document).ready(function(){
     effect: 'fade',
     centeredSlides: true,
     autoplay: {
-      delay: 8000,
+      delay: 5000,
       disableOnInteraction: false,
     },
     pagination: {
@@ -107,7 +107,7 @@ $(document).ready(function(){
   /*FAQ*/
   $('.mdl-accordion__content').each(function(){
     var content = $(this);
-    content.css('margin-top', -content.height());
+    content.css('margin-top', (-content.height() - 20));
   });
   $(document.body).on('click', '.mdl-accordion__button', function(){
     $(this).parent('.mdl-accordion').toggleClass('mdl-accordion--opened');
