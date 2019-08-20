@@ -1,8 +1,17 @@
 
-$(document).ready(function(){
-  //smooth scrolling
-  $("nav a, .slide-text a").on('click', function(event) {
+var dialog = document.getElementById('dialog1');
+var dialog2 = document.getElementById('dialog2');
+var dialog3 = document.getElementById('dialog3');
+var dialog4 = document.getElementById('dialog4');
 
+$(document).ready(function(){
+
+  
+
+  //smooth scrolling
+  $(document).on('click','nav a, .slide-text a, .serviceBook', function(event) {
+    $('dialog').removeAttr('open');
+    console.log('Hi');
     // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {
       // Prevent default anchor click behavior
@@ -55,7 +64,7 @@ $(document).ready(function(){
   /*SLIDERS*/
 
   /*SERVICES*/
-  var dialog = document.getElementById('dialog1');
+  
   var showModalButton = document.getElementById('service1');
   if (! dialog.showModal) {
     dialogPolyfill.registerDialog(dialog);
@@ -63,11 +72,12 @@ $(document).ready(function(){
   showModalButton.addEventListener('click', function() {
     dialog.showModal();
   });
+  
   dialog.querySelector('.close').addEventListener('click', function() {
     dialog.close();
   });
 
-  var dialog2 = document.getElementById('dialog2');
+
   var showModalButton2 = document.getElementById('service2');
   if (! dialog2.showModal) {
     dialogPolyfill.registerDialog(dialog2);
@@ -79,7 +89,7 @@ $(document).ready(function(){
     dialog2.close();
   });
 
-  var dialog3 = document.getElementById('dialog3');
+  
   var showModalButton3 = document.getElementById('service3');
   if (! dialog3.showModal) {
     dialogPolyfill.registerDialog(dialog3);
@@ -91,7 +101,7 @@ $(document).ready(function(){
     dialog3.close();
   });
 
-  var dialog4 = document.getElementById('dialog4');
+  
   var showModalButton4 = document.getElementById('service4');
   if (! dialog4.showModal) {
     dialogPolyfill.registerDialog(dialog4);
@@ -102,6 +112,8 @@ $(document).ready(function(){
   dialog4.querySelector('.close').addEventListener('click', function() {
     dialog4.close();
   });
+
+  
   /*SERVICES*/
 
   /*FAQ*/
