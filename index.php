@@ -9,7 +9,7 @@ $configNav = array(
     array('name'=>'about', 'displayName'=>'About', 'link'=>'#about', 'active'=>1, 'order'=>4),
     array('name'=>'services', 'displayName'=>'Services', 'link'=>'#services', 'active'=>1, 'order'=>1),
     array('name'=>'testimonials', 'displayName'=>'Testimonials', 'link'=>'#testimonials', 'active'=>0, 'order'=>4),
-    array('name'=>'faq', 'displayName'=>'FAQ/Pricing', 'link'=>'#faq', 'active'=>1, 'order'=>3),
+    array('name'=>'faq', 'displayName'=>'FAQs', 'link'=>'#faq', 'active'=>1, 'order'=>3),
     array('name'=>'contact', 'displayName'=>'Contact', 'link'=>'#contact', 'active'=>1, 'order'=>5),
 );
 usort($configNav, 'sortByOrder');

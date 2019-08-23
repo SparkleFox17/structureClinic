@@ -2,7 +2,7 @@
     <!-- Swiper -->
     <div class="swiper-container" id="homeSlider">
         <div class="swiper-wrapper">
-            <div class="swiper-slide" id="slide1">
+            <!--<div class="swiper-slide" id="slide1">
                 <div class="container-big">
                     <div class="slide-text">
                         <a href="#services">
@@ -18,22 +18,22 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <div class="swiper-slide" id="slide0">
                 <div class="container-big">
                     <div class="slide-text">
                         <h1>Structure Clinic Medical &amp; Aesthetics</h1>
                         <p>Put your best face forward</p>
                         <br/>
-                        <a href="#services">
+                        <a href="#faq">
                             <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
-                                Services
+                                FAQ
                             </button>
                         </a>
                         <br/>
                         <a href="#contact">
                             <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
-                                Schedule an Appointment
+                                Book An Appointment
                             </button>
                         </a>
                     </div>

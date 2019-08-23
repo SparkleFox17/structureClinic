@@ -42,7 +42,7 @@ $(document).ready(function(){
   });
 
   /*SLIDERS*/
-  var swiper = new Swiper('#homeSlider', {
+  /*var swiper = new Swiper('#homeSlider', {
     spaceBetween: 30,
     effect: 'fade',
     centeredSlides: true,
@@ -53,7 +53,7 @@ $(document).ready(function(){
     pagination: {
       el: '#homeSlider .swiper-pagination',
     },
-  });
+  });*/
 
   var swiper = new Swiper('#testimonialSlider', {
     navigation: {

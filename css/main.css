@@ -13,7 +13,7 @@
 h1, h2{margin: 0;font-size:36px;}
 p{line-height: 30px;font-size: 16px;letter-spacing: 1px;}
 a{text-decoration:none;}
-body {background-color: #1d8576;}
+body {background-color: #7dc3c9;}
 button{
     border: 5px solid #000!important;
     padding-bottom: 35px!important;
@@ -35,7 +35,7 @@ header {
     z-index: 1000;
     width: 100%;
     height: 70px;  
-    background-color: #1d8576;
+    background-color: #7dc3c9;
 }
 nav {
     position: relative;
@@ -110,10 +110,10 @@ section:nth-child(even) {
     max-height: 700px;
 }
 #slide0{
-    background:linear-gradient(to bottom, rgba(101, 203, 212, 0.5) 0%, rgba(101, 203, 212, 1) 70%), url('../imgs/damask.jpg') 50% 50% / cover no-repeat;
+    background:linear-gradient(to bottom, rgba(101, 203, 212, 0.5) 0%, rgba(101, 203, 212, 1) 70%), url('../imgs/slide1.jpg') 50% 50% / cover no-repeat;
 }
 #slide1{
-    background:linear-gradient(to right, rgba(101, 203, 212, 0) 0%, rgba(101, 203, 212, 0.7) 70%), url('../imgs/slide1.jpg') 50% 50% / cover no-repeat;
+    background:linear-gradient(to right, rgba(101, 203, 212, 0) 0%, rgba(101, 203, 212, 0.7) 70%), url('../imgs/damask.jpg') 50% 50% / cover no-repeat;
 }
 #slide2{
     background:linear-gradient(to top, rgba(101, 203, 212, 0) 0%, rgba(101, 203, 212, 0.6) 70%), url('../imgs/slide2.jpg') 50% 50% / cover no-repeat;
@@ -127,8 +127,15 @@ section:nth-child(even) {
 .slide-text .mdl-button {
     color:#000;
     border: 5px solid #fff!important;
+    background-color: #fff;
     width: 500px;
     margin-top: 20px;
+    transition: all .2s ease;
+}
+.slide-text .mdl-button:hover {
+    color:#fff;
+    border: 5px solid #000!important;
+    background-color: #000;
 }
 #home .container-big {
     text-align: center;
@@ -177,8 +184,9 @@ section:nth-child(even) {
 #about {
     height: auto;
     background: #fff;
-    background-color: #1d8576;
+    background-color: #7dc3c9;
     color: #fff;
+    min-height: 500px;
 }
 #about .container {
     background-color: transparent;
@@ -194,7 +202,7 @@ section:nth-child(even) {
 
 /*SERVICES*/
 #services {
-    background-color: #1d8576;
+    background-color: #7dc3c9;
     color: #fff;
 }
 #services .skin {
@@ -343,18 +351,21 @@ dialog{
 .testimonial p:nth-child(2){
     font-family: 'Dancing Script', cursive;
 }
+.mdl-accordion--opened .mdl-accordion__button {
+    background: linear-gradient(to left, rgba(101, 203, 212, 0) 96%, rgba(101, 203, 212, 1) 100%);
+}
 /*TESTIMONIALS*/
 
 /*FAQ*/
 #faq{
-    background-color: #888888;
+    background-color: #fff;
     height:auto;
     min-height:auto;
     padding-bottom:20px;
 }
 #faq .container{
     padding: 30px 0;
-    background-color: #888888;
+    background-color: #fff;
     height: auto;
     min-height: inherit;
 }
@@ -436,6 +447,9 @@ dialog{
     right: 0px;
     width: 50%;
 }
+.mdl-textfield {
+    width: calc(100% - 25px);
+}
 /*CONTACT*/
 
 
@@ -513,7 +527,7 @@ footer a{
 }
 .swiper-pagination-bullet-active {
     opacity: 1;
-    background: #1d8576;
+    background: #7dc3c9;
 }
 
 .swiper-button-next{
@@ -596,7 +610,7 @@ footer a{
         cursor:pointer;
     }
     nav ul li:hover {
-        background-color:#1d8576;
+        background-color:#7dc3c9;
     }
 
     #toronto {
@@ -621,6 +635,9 @@ footer a{
         width: auto;
         margin: 0 auto;
         letter-spacing: 2px;
+    }
+    .burger {
+        display: inline-block;
     }
 }
 
@@ -669,7 +686,7 @@ footer a{
         cursor:pointer;
     }
     nav ul li:hover {
-        background-color:#1d8576;
+        background-color:#7dc3c9;
     }
     #toronto {
         display:none;
@@ -694,8 +711,14 @@ footer a{
         margin: 0 auto;
         letter-spacing: 2px;
     }
+    .burger {
+        display: inline-block;
+    }
 }
 
 /*desktop first*/
 @media screen and (min-width: 1240px) {
+    .burger {
+        display: none;
+    }
 }  
