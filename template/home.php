@@ -22,7 +22,8 @@
             <div class="swiper-slide" id="slide0">
                 <div class="container-big">
                     <div class="slide-text">
-                        <h1>Structure Clinic Medical &amp; Aesthetics</h1>
+                        <img src="./imgs/logo-flat.png" width="300" style="margin-top: -7px;" />
+                        <h1>Medical &amp; Aesthetics</h1>
                         <p>Put your best face forward</p>
                         <br/>
                         <a href="#faq">

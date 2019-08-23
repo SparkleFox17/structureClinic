@@ -110,7 +110,7 @@ section:nth-child(even) {
     max-height: 700px;
 }
 #slide0{
-    background:linear-gradient(to bottom, rgba(101, 203, 212, 0.5) 0%, rgba(101, 203, 212, 1) 70%), url('../imgs/slide1.jpg') 50% 50% / cover no-repeat;
+    background:linear-gradient(to left, rgba(101, 203, 212, 0) 0%, rgba(101, 203, 212, .7) 90%), url('../imgs/home.png') 150px 0% / cover no-repeat;
 }
 #slide1{
     background:linear-gradient(to right, rgba(101, 203, 212, 0) 0%, rgba(101, 203, 212, 0.7) 70%), url('../imgs/damask.jpg') 50% 50% / cover no-repeat;
@@ -160,8 +160,8 @@ section:nth-child(even) {
     font-size:20px;
 } 
 #slide0 .container-big{
-    justify-content:center;
-    text-align:center;
+    justify-content:left;
+    text-align:left;
 }
 #slide1 .container-big{
     justify-content:flex-end;
@@ -204,6 +204,7 @@ section:nth-child(even) {
 #services {
     background-color: #7dc3c9;
     color: #fff;
+    height:auto;
 }
 #services .skin {
     width:100%;
@@ -215,7 +216,8 @@ section:nth-child(even) {
 }
 #services .container{
     background-color:transparent;
-    min-height:800px;
+    min-height:500px;
+    height:auto;
 }
 .pricing{
     position: absolute;
@@ -306,6 +308,13 @@ dialog{
 .mdl-dialog__actions a {
     flex: inherit;
     margin-left: 20px;
+}
+.serviceList{
+    list-style-type: disc;
+}
+.serviceImg {
+    width: 65%;
+    float: right;
 }
 /*SERVICES*/
    

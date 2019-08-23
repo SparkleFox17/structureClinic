@@ -68,6 +68,7 @@ $(document).ready(function(){
 
   /*SERVICES*/
   
+  /*
   var showModalButton = document.getElementById('service1');
   if (! dialog.showModal) {
     dialogPolyfill.registerDialog(dialog);
@@ -115,6 +116,7 @@ $(document).ready(function(){
   dialog4.querySelector('.close').addEventListener('click', function() {
     dialog4.close();
   });
+  */
 
   
   /*SERVICES*/
