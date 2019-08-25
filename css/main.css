@@ -62,7 +62,7 @@ nav ul li a {
     color: white;
     padding: 5px;
     margin: 20px;
-    font-size: 12px;
+    font-size: 17px;
 }
 /*NAV*/ 
 
@@ -123,12 +123,14 @@ section:nth-child(even) {
 }
 .slide-text{
     text-align: center;
+    margin: 0 10px;
 }
 .slide-text .mdl-button {
-    color:#000;
-    border: 5px solid #fff!important;
-    background-color: #fff;
-    width: 500px;
+    color: #fff;
+    border: 5px solid #7dc3c9!important;
+    background-color: #7dc3c9;
+    width: 100%;
+    min-width: 200px;
     margin-top: 20px;
     transition: all .2s ease;
 }
@@ -177,6 +179,11 @@ section:nth-child(even) {
 }
 .slide-text button{
     margin-top:40px;
+}
+.simpleflex {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
 }
 /*HOME*/
 
@@ -458,6 +465,10 @@ dialog{
 }
 .mdl-textfield {
     width: calc(100% - 25px);
+}
+textarea::placeholder {
+    font-style: italic;
+    color:#bdbdbd;
 }
 /*CONTACT*/
 

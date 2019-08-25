@@ -22,21 +22,22 @@
             <div class="swiper-slide" id="slide0">
                 <div class="container-big">
                     <div class="slide-text">
-                        <img src="./imgs/logo-flat.png" width="300" style="margin-top: -7px;" />
+                        <!--<img src="./imgs/logo-flat.png" width="300" style="margin-top: -7px;" />-->
                         <h1>Medical &amp; Aesthetics</h1>
-                        <p>Put your best face forward</p>
+                        <!--<p>Put your best face forward</p>-->
                         <br/>
-                        <a href="#faq">
-                            <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
-                                FAQ
-                            </button>
-                        </a>
-                        <br/>
-                        <a href="#contact">
-                            <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
-                                Book An Appointment
-                            </button>
-                        </a>
+                        <div class="simpleflex">
+                            <a href="#faq">
+                                <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
+                                    FAQ
+                                </button>
+                            </a>
+                            <a href="#contact">
+                                <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
+                                    Book
+                                </button>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>

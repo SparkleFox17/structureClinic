@@ -51,7 +51,8 @@
                                 Forehead & Frown lines:  25 to 50 units<br/>
                                 Crow’s Feet: 12 to 20 units<br/>
                                 Lip Flip: 4 to 8 units<br/>
-                                Vertical Lip Lines: Cobblestone Chin: 4 to 14 units<br/>
+                                Vertical Lip Lines: 4 to 8 units<br/>
+                                Cobblestone Chin: 4 to 14 units<br/>
                                 Gummy smile: 4 to 8 units<br/>
                                 Jaw Slimming: 40 to 80 units<br/>
                                 Downturned Mouth: 4 to 8 units<br/>

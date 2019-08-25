@@ -41,8 +41,10 @@
                     <br>
 
                     <div class="mdl-textfield mdl-js-textfield">
-                        <textarea class="mdl-textfield__input" type="text" rows="9" name="Message" id="Message" placeholder="Please ask us a question or indicate if you have a preferred appointment date"></textarea>
-                        <label class="mdl-textfield__label" for="Message">Message (optional)</label>
+                        <div style="border:1px solid #bdbdbd;">
+                            <textarea class="mdl-textfield__input" type="text" rows="9" name="Message" id="Message" placeholder="Please ask us a question or indicate if you have a preferred appointment date"></textarea>
+                            <label class="mdl-textfield__label" for="Message">Message (optional)</label>
+                        </div>
                     </div>
                     <br>
 
