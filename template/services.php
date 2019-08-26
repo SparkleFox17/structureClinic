@@ -27,7 +27,7 @@
                 <li>Excessive Underarm Sweating (Hyperhidrosis)</li>
             </ul>
             <div>
-                <img class="serviceImg" src="./imgs/service1.jpeg" alt="">
+                <img class="serviceImg" src="./imgs/service1.jpg" alt="">
             </div>
         </div>
         <br/><br/>

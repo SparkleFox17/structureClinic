@@ -23,7 +23,7 @@
                 <div class="container-big">
                     <div class="slide-text">
                         <!--<img src="./imgs/logo-flat.png" width="300" style="margin-top: -7px;" />-->
-                        <h1>Medical &amp; Aesthetics</h1>
+                        <h1>Medical &amp; Aesthetics injections</h1>
                         <!--<p>Put your best face forward</p>-->
                         <br/>
                         <div class="simpleflex">
