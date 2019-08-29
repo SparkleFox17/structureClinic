@@ -192,6 +192,58 @@
                             </div>
                         </div>
                     </div>
+                    <div class="mdl-accordion">
+                        <a class="mdl-navigation__link mdl-accordion__button">
+                            <i class="material-icons mdl-accordion__icon mdl-animation--default">expand_more</i>
+                            What should I do before my treatment?
+                        </a>
+                        <div class="mdl-accordion__content-wrapper">
+                            <div class="mdl-accordion__content mdl-animation--default">
+                                <br/>
+                                Botulinum Toxin: Pre-Treatment Instructions
+                                <ul>
+                                    <li>To avoid bruising, it’s best to avoid drinking alcohol or taking medications such as aspirin or ibuprofen (or other non-steroidal anti-inflammatory drugs) for 24 hours prior to your treatment.</li>
+                                    <li>Avoid waxing, bleaching, tweezing, or the use of hair removal creams in the area(s) to be treated.</li>
+                                    <li>You may take Tylenol/acetaminophen (if not contraindicated) 1 hour prior to your appointment if you have concerns about discomfort.</li>
+                                    <li>If you are having lip treatment done and have a history of cold sores (perioral herpes), you can discuss starting a prescriptive medication to prevent an outbreak prior to your procedure.</li>
+                                    <li>Sunburned skin is difficult to treat so avoid exposure to the sun.</li>
+                                    <li>Eat a small meal or a snack before your appointment.</li>
+                                    <li>Always inform your treating healthcare provider or all medications that could interact with treatment such as: antibiotics, blood thinners (ie) Coumadin/warfarin, Plavix).</li>
+                                </ul>
+                                OTHER IMPORTANT INFORMATION
+                                <ul>
+                                    <li>Neurotoxins and fillers are not approved for use when pregnant or breastfeeding.</li>
+                                    <li>Do not use neurotoxins (Dysport/Botox/Xeomin) if you are allergic to eggs, milk proteins, or have any neurological disorders.</li>
+                                    <li>Treatment cannot be performed on active skin infections.</li>
+                                    <li>It is not recommended to have Neurotoxin (Dysport/Botox/Xeomin) treatment on the same area less than 90 days apart.</li>
+                                    <li>The most common side effect is bruising and swelling.  It is NOT advisable to have injections less than 2 weeks before a big event.</li>
+                                </ul>
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mdl-accordion">
+                        <a class="mdl-navigation__link mdl-accordion__button">
+                            <i class="material-icons mdl-accordion__icon mdl-animation--default">expand_more</i>
+                            What should I do after my treatment?
+                        </a>
+                        <div class="mdl-accordion__content-wrapper">
+                            <div class="mdl-accordion__content mdl-animation--default">
+                                <br/>
+                                Botulinum Toxin: Aftercare Instructions
+                                <ul>
+                                    <li>Exercise your treated muscles for the first hour after treatment (e.g. practice frowning, raising your eyebrows or squinting). This helps to work the treatment into your muscles. Although this may help your procedure outcome, it will not impact your treatment negatively if you forget to do this.</li>
+                                    <li>Do NOT have a facial, nor rub or massage the treated area for 24 hours after your treatment.</li>
+                                    <li>Do NOT lie down or do strenuous exercise for four hours after treatment. Also, avoid any exposure to a sauna, hot tub or tanning for four hours. This will prevent your blood pressure from rising and thus minimize the risk of bruising after treatment.</li>
+                                    <li>Some patients experience a mild headache following their treatment. You may take Tylenol for pain relief.</li>
+                                    <li>Be assured that tiny bumps or marks will go away within a few hours after your treatment. There is a small risk of bruising. If this occurs, it is temporary and can easily be covered up with makeup. Infrequently small bruising may last up to one week.</li>
+                                    <li>After the botulinum toxin is placed into the targeted muscles, the effect begins gradually anywhere from 3-7 days and is not complete for two weeks. A follow up appointment is planned for 2 weeks after your treatment to assess the outcomes.</li>
+                                    <li>Treatment will last approximately 3 months. However, if you maintain your treatment appointments with the frequency recommended, the duration of each treatment may last longer than four months.</li>
+                                </ul>
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
