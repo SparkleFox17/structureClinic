@@ -244,6 +244,43 @@
                             </div>
                         </div>
                     </div>
+                    <div class="mdl-accordion">
+                        <a class="mdl-navigation__link mdl-accordion__button">
+                            <i class="material-icons mdl-accordion__icon mdl-animation--default">expand_more</i>
+                            Is it safe?
+                        </a>
+                        <div class="mdl-accordion__content-wrapper">
+                            <div class="mdl-accordion__content mdl-animation--default">
+                                <br/>
+                                Botulinum toxin has a long history of use for various medical conditions since the 1970s.  In 2002 it gained approval by the FDA for cosmetic applications.  Injections with botulinum toxin are generally well tolerated and side effects are few. Most commonly there can be mild injection pain, bruising, and/or slight swelling, and a mild headache following the treatment.  
+                                If the botulinum toxin moves into an unintended nearby muscle it can cause temporary unwanted weakness of that muscle. It usually resolves in weeks to months depending on the site. According to North American reporting, approximately 1-3% of patients may experience a temporary upper eyelid or brow drooping. The risk of this effect is minimized by remaining in an upright position for three to four hours following injection and avoiding manipulation of the area. Active contraction of the muscles under treatment may increase the uptake of toxin and decrease its diffusion to unintended muscles.
+                                Although serious side effects such as allergic reactions are rare, they can occur with any medication.   Full details regarding risk and benefits will be discussed during your consultation and your healthcare provider will answer any questions you may have. 
+                                (Botulinum Toxin, Nigam & Nigam, 2010)
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mdl-accordion">
+                        <a class="mdl-navigation__link mdl-accordion__button">
+                            <i class="material-icons mdl-accordion__icon mdl-animation--default">expand_more</i>
+                            Are there reasons I can’t receive treatment?
+                        </a>
+                        <div class="mdl-accordion__content-wrapper">
+                            <div class="mdl-accordion__content mdl-animation--default">
+                                <br/>
+                                Botulinum injections are not recommended if:
+                                <ul>
+                                    <li>You are pregnant or breastfeeding</li>
+                                    <li>You have an allergy to any of the ingredients in Botox or Dysport or a previous reaction to any neuromodulator</li>
+                                    <li>You have a skin infection in the injection area</li>
+                                    <li>You have a neurological condition that affects your muscles or nerves (such as myasthenia gravis, ALS, lambert-eaton syndrome)</li>
+                                    <li>You have difficulty swallowing</li>
+                                    <li>You have bleeding disorders</li>
+                                </ul>
+                                <br/>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -13,7 +13,7 @@
 h1, h2{margin: 0;font-size:36px;}
 p{line-height: 30px;font-size: 16px;letter-spacing: 1px;}
 a{text-decoration:none;}
-body {background-color: #7dc3c9;}
+body {background-color: #2C6779;}
 button{
     border: 5px solid #000!important;
     padding-bottom: 35px!important;
@@ -36,7 +36,7 @@ header {
     z-index: 1000;
     width: 100%;
     height: 70px;  
-    background-color: #7dc3c9;
+    background-color: #2C6779;
 }
 nav {
     position: relative;
@@ -110,6 +110,10 @@ section:nth-child(even) {
 #home{
     max-height: 700px;
 }
+#home h1 {
+    font-family: 'industryw00-lightregular';
+}
+
 #slide0{
     /*background:linear-gradient(to left, rgba(101, 203, 212, 0) 0%, rgba(101, 203, 212, .7) 90%), url('../imgs/home.png') 150px 0% / cover no-repeat;*/
     background-image: url(../imgs/home.png);
@@ -134,8 +138,8 @@ section:nth-child(even) {
 }
 .slide-text .mdl-button {
     color: #fff;
-    border: 5px solid #7dc3c9!important;
-    background-color: #7dc3c9;
+    border: 5px solid #792C48!important;
+    background-color: #792C48;
     width: 100%;
     min-width: 220px;
     margin-top: 20px;
@@ -162,7 +166,7 @@ section:nth-child(even) {
     background:transparent;
 }
 #home .container-big h1{
-    font-size:30px;
+    font-size:40px;
     letter-spacing:2px;
 } 
 #home .container-big p{
@@ -189,7 +193,7 @@ section:nth-child(even) {
 }
 .simpleflex {
     display: flex;
-    flex-direction:row;
+    flex-direction:column;
     justify-content: space-between;
 }
 /*HOME*/
@@ -374,7 +378,13 @@ dialog{
     font-family: 'Dancing Script', cursive;
 }
 .mdl-accordion--opened .mdl-accordion__button {
-    background: linear-gradient(to left, rgba(101, 203, 212, 0) 96%, rgba(101, 203, 212, 1) 100%);
+    background: linear-gradient(to left, rgba(121, 44, 72, 0) 96%, rgba(121, 44, 72, 1) 100%);
+}
+
+.mdl-accordion__content ul{
+    list-style-type: disc;
+    margin-left: 15px;
+    padding: 20px 0 0 0;
 }
 /*TESTIMONIALS*/
 
@@ -519,6 +529,10 @@ footer p {
 footer a{
     color:#fff;
 }
+.bottomLogo{
+    width: 250px;
+    margin: -20px 0 20px 0;
+}
 /*FOOTER*/
 
 
@@ -553,7 +567,7 @@ footer a{
 }
 .swiper-pagination-bullet-active {
     opacity: 1;
-    background: #7dc3c9;
+    background: #2C6779;
 }
 
 .swiper-button-next{
@@ -636,7 +650,7 @@ footer a{
         cursor:pointer;
     }
     nav ul li:hover {
-        background-color:#7dc3c9;
+        background-color:#2C6779;
     }
 
     #toronto {
@@ -712,7 +726,7 @@ footer a{
         cursor:pointer;
     }
     nav ul li:hover {
-        background-color:#7dc3c9;
+        background-color:#2C6779;
     }
     #toronto {
         display:none;

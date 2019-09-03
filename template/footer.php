@@ -1,8 +1,9 @@
 <footer>
     <div class="bottom-logo"> 
-        <p>Structure Clinic</p>
+        <!--<p>Structure Clinic</p>-->
+        <img class="bottomLogo" src="./imgs/logo-stacked.png" alt="">
         <!--<p>Copyright &copy; 2019</p>-->
-        <p>Medical &amp; Aesthetics</p>
+        <p>Medical &amp; Aesthetic<br/>injections</p>
     </div>
     <div class="foot-info">
         <p>Toronto, ONT</p>
