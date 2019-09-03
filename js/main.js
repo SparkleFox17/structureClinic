@@ -7,6 +7,45 @@ var dialog4 = document.getElementById('dialog4');
 $(document).ready(function(){
 
 
+    $(window).scroll(function () {
+
+        var y = $(this).scrollTop();
+
+        $('.link').each(function (event) {
+            if (y >= $($(this).attr('href')).offset().top - 40) {
+                $('.link').not(this).parent().removeClass('active');
+                $(this).parent().addClass('active');
+            }
+        });
+
+    });
+
+  // SMOOTH SCROLLING (with negative scroll of 40 for header)
+
+  $(function () {
+      $('a[href*=#]:not([href=#])').click(function () {
+          if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+              var target = $(this.hash);
+              target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+              if (target.length) {
+                  $('html,body').animate({
+                      scrollTop: (target.offset().top - 40)
+                  }, 850);
+                  return false;
+              }
+          }
+      });
+  });
+  $(document).on('click', '.navLink', function(){
+    if($(this).hasClass('active')){
+      $(this).parent().removeClass('active');
+    }else{
+      $('.navLink').parent().removeClass('active');
+      $(this).parent().addClass('active');
+    }
+  });
+
+
   //smooth scrolling
   $(document).on('click','nav a, .slide-text a, .serviceBook', function(event) {
     if($('nav').hasClass('open')){

@@ -40,25 +40,29 @@ header {
 }
 nav {
     position: relative;
-    height: 40px;
+    height: 70px;
     width: 100px;
     color: #4967E6;
-    margin-top: 5px;
 }
 nav ul {
     display: flex;
     flex-direction: row;
     justify-content: start;
     float: right;
-    padding: 1px;
-    margin:  1px;
+    height:100%;
 } 
 nav ul li {
     text-align:center;
     padding: 5px;
-    margin: 1px;
-   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor:pointer;
 }
+nav ul li:hover, nav ul li.active{
+    background-color: #792C48;
+}
+
 nav ul li a {    
     color: white;
     padding: 5px;
@@ -92,7 +96,6 @@ section:nth-child(even) {
     height: calc(100% - 35px);
 }
 .container-big {
-    padding: 11px 0;
     position: relative;
     display: block;
     width: 1300px;
@@ -477,7 +480,7 @@ dialog{
     display: inline-block;
     top: 90px;
     right: 0px;
-    width: 50%;
+    width: 49%;
 }
 .mdl-textfield {
     width: calc(100% - 25px);
@@ -485,6 +488,15 @@ dialog{
 textarea::placeholder {
     font-style: italic;
     color:#bdbdbd;
+}
+#contact button {
+    border: 5px solid #792C48!important;
+    background-color: #792C48;
+    color:#fff;
+}
+#contact button:hover {
+    border: 5px solid #000!important;
+    background-color: #000;
 }
 /*CONTACT*/
 

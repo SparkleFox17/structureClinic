@@ -1,12 +1,12 @@
 <header>
     <div class="container-big">
-        <img src="./imgs/logo-flat.png" width="300" style="margin-top: -7px;" />
+        <img src="./imgs/logo-flat.png" width="300" style="margin-top: -7px;padding: 11px 0 0 0;" />
         <nav>
             <ul>
             <?php
             foreach($configNav as $page){
                 if($page['active']==1){
-                    echo '<li><a href="'.$page['link'].'">'.$page['displayName'].'</a></li>';
+                    echo '<li><a class="link" href="'.$page['link'].'">'.$page['displayName'].'</a></li>';
                 }
             }
             ?>
