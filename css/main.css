@@ -331,6 +331,7 @@ dialog{
 }
 .serviceList{
     list-style-type: disc;
+    margin-left: 15px;
 }
 .serviceImg {
     width: 65%;
@@ -414,11 +415,14 @@ dialog{
 .mdl-accordion{
     margin-bottom: 5px;
     background: #fafafa!important;
+    height: 56px;
+    overflow: hidden;
 }
 .mdl-accordion.mdl-accordion--opened{
   border-top: 1px solid #e0e0e0;
   border-bottom: 1px solid #e0e0e0;
   margin-top: -1px;
+  height:auto;
 }
 .mdl-accordion.mdl-accordion--opened + .mdl-accordion.mdl-accordion--opened{
   border-top: none;
@@ -458,6 +462,7 @@ dialog{
     background:transparent;
     box-shadow:none;
     position: relative;
+    transform: translateX(0px);
 }
 .mdl-layout__drawer .mdl-navigation {
     padding-top:0px;
@@ -618,6 +623,20 @@ footer a{
 
 /*mobile first*/
 @media screen and (max-width: 599px) and (min-width: 0px) {
+    #slide0 {
+        background: linear-gradient(to left, rgba(139, 182, 195, 0) 0%, rgba(139, 182, 195, 1) 90%), url(../imgs/home.png) 150px 0% / cover no-repeat;
+        /* background-image: url(../imgs/home.png); */
+        background-size: cover;
+        color: #fff;
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-color: #8bb6c3;
+    }
+    #slide0 .container-big {
+        justify-content: center;
+        text-align: left;
+        width: 100vw;
+    }
     .page-header {
         margin-left:0px;
     }
@@ -699,7 +718,11 @@ footer a{
         margin-left:0px;
     }
     .container {
-        width: calc(100vw - 60px);
+        width: calc(100vw - 90px);
+        margin: inherit;
+    }
+    #faq .container {
+        padding:30px;
     }
     .container-big {
         width: 100vw;
@@ -714,7 +737,7 @@ footer a{
         height: 0px;
         overflow:hidden;
         width: 100vw;
-        background-color: #18655a;
+        background-color: #2C6779;
         top: 70px;
         margin-top: 0px;
     }
@@ -741,7 +764,10 @@ footer a{
         background-color:#2C6779;
     }
     #toronto {
-        display:none;
+        /*display:none;*/
+        background-image: url(../imgs/toronto.jpg);
+        background-size: cover;
+        width: calc(100vw - 30px);
     }
     .mdl-textfield {
         width:100%;
@@ -765,6 +791,7 @@ footer a{
     }
     .burger {
         display: inline-block;
+        padding: 15px 25px 0 0;
     }
 }
 
