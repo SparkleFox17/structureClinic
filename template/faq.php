@@ -13,9 +13,9 @@
                         <div class="mdl-accordion__content-wrapper">
                             <div class="mdl-accordion__content mdl-animation--default">
                                 <br/>
-                                Botox&reg; and Dysport &reg; are both brand names of medications known as neuromodulators. Neuromodulators work by temporarily blocking the signal from the nerve that tells the muscle to contract. When small amounts of these medications are injected, they relax the movement of targeted facial muscles. When you decrease the movement of these muscles you also decrease wrinkling and smooth out the appearance of the skin.
+                                Botox&reg; and Dysport&reg; are both brand names of medications known as neuromodulators. Neuromodulators work by temporarily blocking the signal from the nerve that tells the muscle to contract. When small amounts of these medications are injected, they relax the movement of targeted facial muscles. When you decrease the movement of these muscles you also decrease wrinkling and smooth out the appearance of the skin.
                                 <br/><br/>
-                                The effects of these medications wear off after approximately 3 months. However, with regular treatments results may last longer and a smaller dose may be required. Botox&reg; and Dysport can help to prevent the appearance of permanent wrinkles and soften existing fine lines. 
+                                The effects of these medications wear off after approximately 3 months. However, with regular treatments results may last longer and a smaller dose may be required. Botox&reg; and Dysport&reg;  can help to prevent the appearance of permanent wrinkles and soften existing fine lines.
                                 <br/>
                             </div>
                         </div>
@@ -70,7 +70,7 @@
                         <div class="mdl-accordion__content-wrapper">
                             <div class="mdl-accordion__content mdl-animation--default">
                                 <br/>
-                                You may start to see a reduction in muscle movement and wrinkles within 3 days, but the full effect is generally seen by 2 weeks after treatment.  We like to see you for a follow up appointment 2 weeks after your treatment to assess for effect and to ensure your are satisfied with the results. It is not uncommon to need a small touch up at the follow up appointment.
+                                You may start to see a reduction in muscle movement and wrinkles within 3 days, but the full effect is generally seen within 2 weeks of treatment. We like to see you for a follow up appointment 2 weeks after your treatment to assess for effect and to ensure your are satisfied with the results. It is not uncommon to need a small touch up at the follow up appointment.
                                 <br/>
                             </div>
                         </div>
@@ -174,7 +174,7 @@
                         <div class="mdl-accordion__content-wrapper">
                             <div class="mdl-accordion__content mdl-animation--default">
                                 <br/>
-                                We use Dysport or Botox for our treatments.  They are both neuromodulators that have been used for many years in the cosmetic industry.  Based on your consultation we will discuss the best product for your treatment.
+                                We use Dysport&reg; or Botox&reg; for our treatments. They are both neuromodulators that have been used for many years in the cosmetic industry. Based on your consultation we will discuss the best product for your treatment.
                                 <br/>
                             </div>
                         </div>
@@ -187,7 +187,7 @@
                         <div class="mdl-accordion__content-wrapper">
                             <div class="mdl-accordion__content mdl-animation--default">
                                 <br/>
-                                If you have never had a Botox® or Dysport® treatment, then ideally you should have your first treatment 4 months before your important event so that the dose and effect can be fine tuned before the big day.  Otherwise, 3 to 4 weeks before the event would be the best timing.
+                                If you have never had a Botox&reg; or Dysport&reg; treatment, then ideally you should have your first treatment 4 months before your important event so that the dose and effect can be fine tuned before the big day.  Otherwise, 3 to 4 weeks before the event would be the best timing.
                                 <br/>
                             </div>
                         </div>
@@ -202,7 +202,20 @@
                                 <br/>
                                 Botulinum Toxin: Pre-Treatment Instructions
                                 <ul>
-                                    <li>To avoid bruising, it’s best to avoid drinking alcohol or taking medications such as aspirin or ibuprofen (or other non-steroidal anti-inflammatory drugs) for 24 hours prior to your treatment.</li>
+                                    <li>
+                                        Although bruising is usually minimal, there are some things you can do to reduce your chances of bruising:
+                                        <ul>
+                                            <li>
+                                                Avoid taking supplements with blood thinning effects for 7 days before your treatment. These include: fish oil, garlic, ginger, ginkgo biloba, ginseng, green tea, and vitamin E.
+                                            </li>
+                                            <li>
+                                                Avoid non-essential blood thinning medications for 7 days before your treatment. These include aspirin, Advil (ibuprofen) and Aleve (naproxen)
+                                            </li>
+                                            <li>
+                                                Avoiding alcohol for 24 hours before your treatment can also reduce your chances of bruising.
+                                            </li>
+                                        </ul>
+                                    </li>
                                     <li>Avoid waxing, bleaching, tweezing, or the use of hair removal creams in the area(s) to be treated.</li>
                                     <li>You may take Tylenol/acetaminophen (if not contraindicated) 1 hour prior to your appointment if you have concerns about discomfort.</li>
                                     <li>If you are having lip treatment done and have a history of cold sores (perioral herpes), you can discuss starting a prescriptive medication to prevent an outbreak prior to your procedure.</li>
@@ -216,7 +229,7 @@
                                     <li>Do not use neurotoxins (Dysport/Botox/Xeomin) if you are allergic to eggs, milk proteins, or have any neurological disorders.</li>
                                     <li>Treatment cannot be performed on active skin infections.</li>
                                     <li>It is not recommended to have Neurotoxin (Dysport/Botox/Xeomin) treatment on the same area less than 90 days apart.</li>
-                                    <li>The most common side effect is bruising and swelling.  It is NOT advisable to have injections less than 2 weeks before a big event.</li>
+                                    <li>The most common side effect is bruising and swelling. It is NOT advisable to have injections less than 2 weeks before a big event.</li>
                                 </ul>
                                 <br/>
                             </div>
@@ -275,7 +288,7 @@
                                     <li>You have a skin infection in the injection area</li>
                                     <li>You have a neurological condition that affects your muscles or nerves (such as myasthenia gravis, ALS, lambert-eaton syndrome)</li>
                                     <li>You have difficulty swallowing</li>
-                                    <li>You have bleeding disorders</li>
+                                    <li>You have a bleeding disorder</li>
                                 </ul>
                                 <br/>
                             </div>

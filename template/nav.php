@@ -1,6 +1,10 @@
 <header>
+<header-top>
+    <p>P: 647-444-5555 </p>
+    <p>E: <a href="mailto:admin@structureclinic.ca">admin@structureclinic.ca</a></p> 
+</header-top>
     <div class="container-big">
-        <img src="./imgs/logo-flat.png" width="300" style="margin-top: -7px;padding: 11px 0 0 0;" />
+        <img src="./imgs/logo-flat.png" width="300" style="margin-top: -10px;padding: 11px 0 0 0;" />
         <nav>
             <ul>
             <?php

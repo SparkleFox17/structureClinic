@@ -5,12 +5,13 @@
     <div class="container">
         <h1 class="page-header">Services</h1>
 
-        <h3>Botox&reg; & Dysport&reg; Injections</h3>
+        <!--<h3>Botox&reg; & Dysport&reg; Injections</h3>-->
+        <h3>Wrinkle Reducing Injections: Botox &reg; and Dysport &reg; </h3>
 
         <p>
-        Botox® and Dysport® are examples of medications known as neuromodulators.  When small amounts of these medications are injected into facial muscles they decrease the movement in that muscle.  The result is a decrease in wrinkling and a smoother appearance to the skin.  
+        <!--Botox® and Dysport® are examples of medications known as neuromodulators.  When small amounts of these medications are injected into facial muscles they decrease the movement in that muscle.  The result is a decrease in wrinkling and a smoother appearance to the skin.  
         <br/><br/>
-        Some areas we treat with neuromodulators include:
+        Some areas we treat with neuromodulators include:-->
         <br/>
         </p>
         <div class="row">
@@ -21,13 +22,14 @@
                 <li>Vertical Lip Lines</li>
                 <li>Lip Enhancement</li>
                 <li>Downturned Mouth</li>
+                <li>Bunny Lines</li>
                 <li>Gummy Smile</li>
-                <li>Cobblestone Chin</li>
+                <li>Chin Dimpling</li>
                 <li>Jawline Slimming</li>
-                <li>Excessive Underarm Sweating (Hyperhidrosis)</li>
+                <li>Excessive Sweating (Hyperhidrosis)</li>
             </ul>
             <div>
-                <img class="serviceImg" src="./imgs/service1.jpg" alt="">
+                <img class="serviceImg" src="https://image.shutterstock.com/image-photo/young-female-clean-fresh-skin-600w-226352884.jpg" alt="">
             </div>
         </div>
         <br/><br/>
