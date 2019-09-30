@@ -30,8 +30,8 @@
                     <br>
 
                     <p style="margin-bottom:-20px;">Preferred method of contact?</p><br/>
-                    <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-2">
-                        <input type="radio" id="option-2" class="mdl-radio__button" name="options" value="1">
+                    <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1" style="margin-right:20px;">
+                        <input type="radio" id="option-1" class="mdl-radio__button" name="options" value="1">
                         <span class="mdl-radio__label">Phone</span>
                     </label>
                     <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-2" style="margin-left:20px;">

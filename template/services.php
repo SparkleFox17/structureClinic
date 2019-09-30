@@ -28,9 +28,7 @@
                 <li>Jawline Slimming</li>
                 <li>Excessive Sweating (Hyperhidrosis)</li>
             </ul>
-            <div>
-                <img class="serviceImg" src="https://image.shutterstock.com/image-photo/young-female-clean-fresh-skin-600w-226352884.jpg" alt="">
-            </div>
+
         </div>
         <br/><br/>
         <p>
