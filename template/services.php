@@ -1,4 +1,4 @@
-<div id="toronto" data-parallax="scroll" data-image-src="./imgs/toronto.jpg" data-speed="1.1"></div>
+<!--<div id="toronto" data-parallax="scroll" data-image-src="./imgs/toronto.jpg" data-speed="1.1"></div>-->
 
 <section id="services">
     <div class="skin"></div>

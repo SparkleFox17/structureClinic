@@ -27,9 +27,9 @@
                         <!--<p>Put your best face forward</p>-->
                         <br/>
                         <div class="simpleflex">
-                            <a href="#faq">
+                            <a href="#services">
                                 <button class="mdl-button mdl-js-button mdl-js-ripple-effect">
-                                    FAQ
+                                    Services
                                 </button>
                             </a>
                             <a href="#contact">

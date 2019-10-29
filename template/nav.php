@@ -1,6 +1,6 @@
 <header>
 <header-top>
-    <p>P: 647-444-5555 </p>
+    <p>A: 185 Carlaw Ave, Toronto, ON </p>
     <p>E: <a href="mailto:admin@structureclinic.ca">admin@structureclinic.ca</a></p> 
 </header-top>
     <div class="container-big">

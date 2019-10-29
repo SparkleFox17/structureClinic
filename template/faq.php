@@ -91,7 +91,7 @@
                     <div class="mdl-accordion">
                         <a class="mdl-navigation__link mdl-accordion__button">
                             <i class="material-icons mdl-accordion__icon mdl-animation--default">expand_more</i>
-                            Do you do group rates?
+                            Do you do group events?
                         </a>
                         <div class="mdl-accordion__content-wrapper">
                             <div class="mdl-accordion__content mdl-animation--default">

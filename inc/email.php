@@ -18,7 +18,7 @@ if(isset($_POST['option'])) {
 $theEmail = "You have received a new message from ".$name.". \n\n Their contact info:\n Phone: ".$phone."\n Email: ".$email."\n\n\n Message:'".$msg."', they would prefer to be reached by ".$option."";
 
 //$to = "admin@structureclinic.ca"; 
-$to = "andrewgphillips74@gmail.com"; 
+$to = "admin@structureclinic.ca"; 
 $subject = "New site inquiry";
 $txt = $theEmail;
 $headers = "From: admin@structureclinic.ca" . "\r\n" .

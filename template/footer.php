@@ -3,10 +3,9 @@
         <!--<p>Structure Clinic</p>-->
         <img class="bottomLogo" src="./imgs/logo-stacked.png" alt="">
         <!--<p>Copyright &copy; 2019</p>-->
-        <p>Medical &amp; Aesthetic<br/>injections</p>
+        <p>Medical &amp; Aesthetic injections</p>
     </div>
     <div class="foot-info">
-        <p>Toronto, ONT</p>
         <a href="mailto:admin@structureclinic.ca">admin@structureclinic.ca</a>
         <!--<p>647-223-8248</p>-->
         <p>185 Carlaw Ave, Toronto, ON M4M 2S1</p>

@@ -4,7 +4,7 @@
         <br>
         <div class="half-container">
             <p>
-                We are discreetly situated within the KA-SPACE Ethical Fashion Boutique at 185 Carlaw Ave, Toronto, Ontario and offer scheduling by appointment only.
+                We are discreetly situated within the KA-SPACE Ethical Fashion Boutique at 185 Carlaw Ave, Toronto.  Services are offered by appointment only.
                 <br/><br/>
                 Please indicate if you have a preferred appointment date or time and we will do our best to accommodate you.
             </p>
@@ -62,6 +62,7 @@
             <br/>
             <p><span id="contact-msg"></span></p>
         </div>
+        <img id="contact-img" src="./imgs/contact.jpg" /> 
     </div> 
-    <img id="contact-img" src="./imgs/contact.jpg" /> 
+    
 </section>
