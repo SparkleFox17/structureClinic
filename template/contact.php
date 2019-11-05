@@ -1,10 +1,10 @@
 <section id="contact">
     <div class="container">
         <h1 class="page-header">Contact</h1> 
-        <br>
+        <br><br/>
         <div class="half-container">
             <p>
-                We are discreetly situated within the KA-SPACE Ethical Fashion Boutique at 185 Carlaw Ave, Toronto.  Services are offered by appointment only.
+                We are situated within the KASPACE Ethical Fashion Shop at 185 Carlaw Ave, Toronto.  Services are offered by appointment only.
                 <br/><br/>
                 Please indicate if you have a preferred appointment date or time and we will do our best to accommodate you.
             </p>

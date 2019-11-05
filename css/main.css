@@ -42,7 +42,7 @@ p{line-height: 30px;font-size: 16px;letter-spacing: 1px;}
 a{text-decoration:none;}
 body {background-color: #557a95;color:#000;}
 button{
-    border: 5px solid #000!important;
+    border: 5px solid #557a95;
     padding-bottom: 35px!important;
     letter-spacing: 7px!important;
     text-align: center!important;
@@ -54,6 +54,7 @@ button{
     letter-spacing: 8px;
     font-family: 'josefin_sanslight';
     color: #000;
+    font-weight: bolder;
 }
 a, i {
     cursor: pointer;
@@ -260,7 +261,7 @@ section:nth-child(even) {
     background: #fff;
     background-color: #fff;
     color: #000;
-    min-height: 500px;
+    min-height: 250px;
 }
 #about .container {
     background-color: transparent;
@@ -284,7 +285,7 @@ section:nth-child(even) {
     background-size: cover;
     background-position: 0px 0%;
     background-repeat: no-repeat;
-    background-color: #8bb6c3;
+    background-color: #fff;
 }
 #services .skin {
     width:100%;
@@ -451,9 +452,7 @@ ul.serviceList li::before {
 .testimonial p:nth-child(2){
     font-family: 'Dancing Script', cursive;
 }
-.mdl-accordion--opened .mdl-accordion__button {
-    /*background: linear-gradient(to left, rgba(121, 44, 72, 0) 96%, rgba(121, 44, 72, 1) 100%);*/
-}
+
 
 .mdl-accordion__content ul{
     list-style-type: disc;
@@ -534,7 +533,7 @@ ul.serviceList li::before {
   transform: rotate(-180deg);
 }
 .mdl-accordion.mdl-accordion--opened .mdl-accordion__button{
-  color: teal;
+  color: #557a95;
 }
 .mdl-accordion.mdl-accordion--opened .mdl-accordion__content{
   margin-top: 0 !important;
@@ -579,12 +578,10 @@ textarea::placeholder {
     color:#bdbdbd;
 }
 #contact button {
-    border: 5px solid #000!important;
-    background-color: #000;
+    background-color: #557a95;
     color:#fff;
 }
 #contact button:hover {
-    border: 5px solid #000!important;
     background-color: #000;
 }
 /*CONTACT*/

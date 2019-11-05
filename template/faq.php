@@ -13,9 +13,9 @@
                         <div class="mdl-accordion__content-wrapper">
                             <div class="mdl-accordion__content mdl-animation--default">
                                 <br/>
-                                Botox&reg; and Dysport&reg; are both brand names of medications known as neuromodulators. Neuromodulators work by temporarily blocking the signal from the nerve that tells the muscle to contract. When small amounts of these medications are injected, they relax the movement of targeted facial muscles. When you decrease the movement of these muscles you also decrease wrinkling and smooth out the appearance of the skin.
+                                Botox&reg; and Dysport&reg; are both brand names of medications known as neuromodulators. Neuromodulators work by temporarily blocking the signal that tells the muscle to contract. When small amounts of these medications are injected, they relax the movement of targeted facial muscles. When you decrease the movement of these muscles you also decrease wrinkling and smooth out the appearance of the skin.
                                 <br/><br/>
-                                The effects of these medications wear off after approximately 3 months. However, with regular treatments results may last longer and a smaller dose may be required. Botox&reg; and Dysport&reg;  can help to prevent the appearance of permanent wrinkles and soften existing fine lines.
+                                The effects of these medications wear off after approximately 3 months. However, with regular treatments results may last longer and a smaller dose may be required. Botox&reg; and Dysport&reg; can help to prevent the appearance of permanent wrinkles and soften existing fine lines.
                                 <br/>
                             </div>
                         </div>
@@ -28,8 +28,8 @@
                         <div class="mdl-accordion__content-wrapper">
                             <div class="mdl-accordion__content mdl-animation--default">
                                 <br/>
-                                The cost of treatment depends on the number of neuromodulator units required. During your consultation we will discuss your goals and how these products can help achieve those outcomes.  A treatment plan will be developed based on an assessment of your facial anatomy, your goals, and your budget. Cost is always determined prior to treatment. 
-                                Neuromodulators start at $9 per unit.
+                                The cost of treatment depends on the number of neuromodulator units required. During your consultation we will discuss your goals and how these products can help achieve those outcomes. A treatment plan will be developed based on an assessment of your facial anatomy, your goals, and your budget. Cost is always determined prior to treatment. 
+                                Neuromodulators start at $10 per unit.
                                 <br/><br/>
                                 See the FAQ on "how many units do I need" to estimate your cost. 
                                 <br/>

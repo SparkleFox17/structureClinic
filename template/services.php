@@ -6,8 +6,10 @@
         <h1 class="page-header">Services</h1>
 
         <!--<h3>Botox&reg; & Dysport&reg; Injections</h3>-->
-        <h3>Wrinkle Reducing Injections: Botox &reg; and Dysport &reg; </h3>
-
+        <br/><br/>
+        <p>
+            At Structure Clinic we specialize in medical injections for both aesthetic and therapeutic outcomes. Treatments are individually customized; which means that we start by learning about you and your goals. Our extensive understanding of anatomy and physiology allows us to provide individualized treatments that are specific to each client. We pride ourselves on high quality, natural looking outcomes.
+        </p>
         <p>
         <!--Botox® and Dysport® are examples of medications known as neuromodulators.  When small amounts of these medications are injected into facial muscles they decrease the movement in that muscle.  The result is a decrease in wrinkling and a smoother appearance to the skin.  
         <br/><br/>
