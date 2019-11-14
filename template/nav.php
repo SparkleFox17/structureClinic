@@ -4,9 +4,9 @@
     <p>E: <a href="mailto:admin@structureclinic.ca">admin@structureclinic.ca</a></p> 
 
     <div style='padding-top: 4px;'>
-        <a style='margin-right: 5px;' href="https://www.facebook.com/structureclinic/"> <img src="./imgs/facebook.png" style='width: 22px;' /> </a>
+        <a style='margin-right: 5px;' href="https://www.facebook.com/structureclinic/"> <img src="./imgs/facebook.png" style='margin: 0;width: 22px;' /> </a>
         <a href="https://www.instagram.com/structure_clinic_toronto/"> 
-            <img src="./imgs/instagram.png" style='width: 22px;' />
+            <img src="./imgs/instagram.png" style='width: 22px;margin: 0;' />
         </a>
     </div>
 </header-top>
