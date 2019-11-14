@@ -8,7 +8,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Structure Clinic" />
     <meta property="og:description" content="Medical & Aesthetic Injections" />
-    <meta property="og:image" content="./imgs/home.png" />
+    <meta property="og:image" content="http://structureClinic.ca/imgs/home.png" />
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="stylesheet" href="./css/swiper.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
