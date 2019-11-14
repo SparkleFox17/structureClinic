@@ -18,6 +18,7 @@
         <div class="row" style="flex-direction:column;">
             <h4>Medical Botox Injections</h4>
             <ul>
+                <li>Migraine</li>
                 <li>Bruxism (teeth grinding/clenching)</li>
                 <li>Hyperhidrosis (excessive sweating)</li>
                 <li>TMJ pain (temporomandibular joint dysfunction)</li>

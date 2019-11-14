@@ -60,7 +60,7 @@ button{
     margin-left:-40px;
     text-transform:capitalize;
     letter-spacing: 1px;
-    font-family: 'HELL-normal';
+    font-family: 'josefin_sansregular';
     color: #000;
     font-weight: bolder;
 }
@@ -288,7 +288,7 @@ section:nth-child(even) {
     background-color: #b4c5d2;
     color: #000;
     height:auto;
-    background-image: url(../imgs/serv.png);
+    background-image: url(../imgs/servv.jpg);
     background-size: 50vw;
     background-position: 80% 70%;
     background-repeat: no-repeat;
@@ -732,11 +732,10 @@ footer a{
         color: #000;
         height: 400px;
         width: 100%;
-        background-image: url(../imgs/serv.png);
+        background-image: url(../imgs/servv.jpg);
         background-size: 100%;
         background-position: 0vw 44%;
         background-repeat: no-repeat;
-        background-color: #b4c5d2;
         display: block;
     }
     .mdl-navigation__link {
@@ -865,7 +864,7 @@ footer a{
         color: #000;
         height: 200px;
         width: 100%;
-        background-image: url(../imgs/service2.png);
+        background-image: url(../imgs/servv.jpg);
         background-size: cover;
         background-position: -20vw 0%;
         background-repeat: no-repeat;
@@ -958,7 +957,7 @@ footer a{
         background-color: #b4c5d2;
         color: #000;
         height:auto;
-        background-image: url(../imgs/serv.png);
+        background-image: url(../imgs/servv.jpg);
         background-size: 60vw;
         background-position: 100% 70%;
         background-repeat: no-repeat;
