@@ -60,7 +60,7 @@ button{
     margin-left:-40px;
     text-transform:capitalize;
     letter-spacing: 1px;
-    font-family: 'josefin_sansregular';
+    font-family: 'josefin_sanslight';
     color: #000;
     font-weight: bolder;
 }
@@ -176,7 +176,7 @@ section:nth-child(even) {
     max-height: 700px;
 }
 #home h1 {
-    font-family: 'HELL-normal';
+    font-family: 'josefin_sanslight';
 }
 
 #slide0{
