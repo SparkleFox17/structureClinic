@@ -176,6 +176,7 @@ section:nth-child(even) {
     max-height: 700px;
 }
 #home h1 {
+    font-weight: bolder;
     font-family: 'josefin_sanslight';
 }
 
